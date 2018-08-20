@@ -1,3 +1,5 @@
 soma
 
 a soma de todos os meses é 74 vezes 12
+A soma das idades é 74 anos
+
