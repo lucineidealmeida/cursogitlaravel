@@ -1,1 +1,3 @@
 soma
+
+a soma de todos os meses é 74 vezes 12
